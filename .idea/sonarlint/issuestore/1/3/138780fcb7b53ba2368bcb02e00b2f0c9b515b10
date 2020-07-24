@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¹ÈÔûÿÿÿÿ
+_
+java:S1117"=Rename "loadPeople" which hides the field declared at line 9.(ÑÎùèûÿÿÿÿ8˜àó¥§.
+`
+java:S1854">Remove this useless assignment to local variable "filterNome".(É‚»ýùÿÿÿÿ8±±¢“š.
+Q
+java:S1481"/Remove this unused "filterNome" local variable.(É‚»ýùÿÿÿÿ8±±¢“š.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8˜àó¥§.

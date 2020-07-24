@@ -1,0 +1,9 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "run".(²—«8Éî®î¶.
+E
+java:S1481"(Remove this unused "run" local variable.(²—«8Éî®î¶.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÒØî°8Äùöí¶.
+I
+java:S1612",Replace this lambda with a method reference.(²—«8Éî®î¶.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¼½¦øÿÿÿÿ
