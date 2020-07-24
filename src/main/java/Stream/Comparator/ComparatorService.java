@@ -18,9 +18,4 @@ public class ComparatorService {
         people.forEach(x -> System.out.println(x.getEmail()));
     }
 
-
-    public void executeTwo(){
-        ToIntFunction<Person> run = u ->u.getId();
-
-    }
 }
